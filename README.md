@@ -7,7 +7,8 @@ The game involves a board with metal targets hanging from it. Lights light up an
 Here's a picture of the back of the board with the wiring.
 ![Wiring picture](https://github.com/djohnson2718/AirsoftTarget/raw/main/pics/wiring.jpg)
 
-Here's a video of what it looks like in action. (Normally I would be shooting it with the gun, not tapping with plier handles, but it is too cold outside right now!)
+Here's a video, showing the front and what it looks like in action. (Normally I would be shooting it with the gun, not tapping with plier handles, but it is too cold outside right now!)
+
 [Video, link to Google photos](https://photos.app.goo.gl/cAEQtu8iNaSoJwes9)
 
 ## Status
