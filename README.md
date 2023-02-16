@@ -9,7 +9,7 @@ Here's a picture of the back of the board with the wiring.
 
 Here's a video, showing the front and what it looks like in action. (Normally I would be shooting it with the gun, not tapping with plier handles, but it is too cold outside right now!)
 
-[Video, link to Google photos](https://photos.app.goo.gl/cAEQtu8iNaSoJwes9)
+![Action video](https://user-images.githubusercontent.com/31708610/219273785-459ec6b2-8917-4013-8337-7b362d419270.mp4)
 
 ## Status
 The code works. There are some problems with the sensitivity of the sensors that I need to work on. Once that is fixed, I may add some new variations on the games. 
@@ -18,3 +18,7 @@ The code works. There are some problems with the sensitivity of the sensors that
 1/4 inch particle board is not strong enough for an electric airsoft gun! Acrylic shatters easily, but polycarbonate is much stronger! 
 
 I will add some more detailed notes about the construction and things I learned in the future.
+
+
+
+
